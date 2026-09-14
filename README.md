@@ -41,7 +41,7 @@ During the testing phase, critical business logic and input restriction defects 
 
 * **QA Methodologies:** Black-box Testing, Test Case Design (BVA, EP), Defect Lifecycle Management, SDLC adherence.
 * **Test Management & Tracking:** Jira Software (Test execution, Bug logging, State tracking).
-* **Environment:** Web Application / Google Chrome.
+* **Environment:** Web Application
 
 ---
 
